@@ -1,0 +1,40 @@
+.detail .pic_list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+}
+
+.detail .jqzoom img {
+    width: 100%;
+}
+
+.detail .pic_list .control {
+    flex: 1;
+    text-align: center;
+    cursor: pointer;
+}
+
+.detail .pic_list .list-content {
+    flex: 8;
+}
+
+.detail .pic_list img {
+    width: auto;
+    height: 60px;
+}
+
+.information td {
+    padding: 8px;
+}
+.middle9 .validateBox label{
+    display: block;
+}
+.middle9 .validateBox input {
+    width: 65%;
+    display: inline-block;
+}
+
+.middle9 .validateBox img {
+    width: 30%;
+}

@@ -1,0 +1,34 @@
+
+header {
+    background-image: linear-gradient(to top, #fff, hsl(0, 80%, 80%));
+    margin-bottom: 20px;
+}
+
+.logo {
+    color: #f00;
+    font-family: 'source-han-sans-simplified-c';
+    font-weight: bold;
+}
+
+.top2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.top2 .ability {
+    margin-left: 20px;
+}
+
+.top2 .ability .other {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px 0 10px;
+}
+
+.top2 .ability .menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,43 @@
+/* CSS Document */
+/*middle*/
+.my-middle {
+    _zoon: 1;
+}
+
+.middle_right .slider img {
+    width: 100%;
+}
+
+.display-list {
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.display-list h5 {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.display-list .card {
+    margin-bottom: 15px;
+}
+
+.display-list .old-price {
+    text-decoration: line-through;
+    color: #666;
+}
+
+.display-list img {
+    width: 100%;
+}
+
+.display-list a.img-box img {
+    height: 180px;
+}
+
+.btn-detail {
+    color: #fff;
+}
+
+

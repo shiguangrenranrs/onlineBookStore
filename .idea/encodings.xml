@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/common/Config.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/dao/ICustomerInfoDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/dao/impl/CustomerInfoDAOImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/dao/impl/NewsDAOImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/db/DBManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/filter/CharSetFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/bookDiscuss/DeleteBookDiscussServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/bookDiscuss/FindAllBookDiscussServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/bookDiscuss/SaveBookDiscussServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/bookDiscuss/UpdateBookDiscussServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/bookInfo/DeleteBookInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/bookInfo/FindAllBookInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/bookInfo/SaveBookInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/bookInfo/UpdateBookInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/bookType/DeleteBookTypeServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/bookType/FindAllBookTypeServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/bookType/SaveBookTypeServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/bookType/UpdateBookTypeServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/customerDetailInfo/DeleteCusDetailInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/customerDetailInfo/FindAllCusDetailInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/customerDetailInfo/SaveDetailInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/customerDetailInfo/UpdateDetailInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/customerInfo/DeleteCustomerInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/customerInfo/FindAllCustomerInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/customerInfo/SaveCustomerInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/customerInfo/UpdateCustomerInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/employee/DeleteEmpServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/employee/FindAllEmployeeServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/employee/SaveEmployeeServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/employee/UpdateEmployeeServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/favorite/DeleteFavServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/favorite/FindAllFavoriteServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/favorite/FindByFavIdServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/favorite/SaveFavServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/favorite/UpdateFavServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/news/DeleteNewsServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/news/FindAllNewsServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/news/SaveNewsServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/news/UpdateNewsServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/reception/InitIndexServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/reception/ShowBookInfoServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/reception/ShowBookListByTypeId.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/reception/ShowNewsServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/shoppingCart/AddGwcItemServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/shoppingCart/ClearGwcItemServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/shoppingCart/DeleteGwcItemServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/shoppingCart/Gouwuche.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/shoppingCart/GouwucheItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/shoppingCart/IGouwuche.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/shoppingCart/MakeOrderServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/shoppingCart/QtLoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/shoppingCart/UpdateGwcItemNumServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/sysAdmin/BackgroundLoginOutServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/sysAdmin/BackgroundLoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/sysAdmin/DeleteAdminServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/sysAdmin/FindAllAdminServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/sysAdmin/SaveAdminServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/onlineBookMy/servlet/sysAdmin/UpdateAdminServlet.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

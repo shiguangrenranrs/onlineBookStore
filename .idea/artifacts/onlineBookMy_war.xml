@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="onlineBookMy:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>onlineBookMy</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="onlineBookMy-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="onlineBookMy:war exploded" />
+    </root>
+  </artifact>
+</component>

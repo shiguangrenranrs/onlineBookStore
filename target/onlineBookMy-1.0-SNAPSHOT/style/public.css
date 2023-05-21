@@ -1,0 +1,54 @@
+﻿/* CSS Document */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: "宋体", serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    border: none;
+}
+
+div {
+    overflow: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+header .top1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@font-face {
+    font-family: 'source-han-sans-simplified-c';
+    src: url(../lib/SourceHanSansCN-Bold.otf);
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
